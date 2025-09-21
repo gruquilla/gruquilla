@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 <!--
 **gruquilla/gruquilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Master in Management student at Audencia (Grande Ecole), I am particularly interested in corporate finance, market finance, and green finance. I am also attentive to the role of AI, management, and economic and social transitions in our organisations.
+In 2025, I joined a Franco-British double-degree with Aston Business School (Birmingham, UK), which will allow me to obtain an MSc in Financial Technology (Fintech). I am also working towards my CFA certification.
+
+In here, I mainly work with Python, and try to explore the full potential of AI and machine learning integrations using for instance Ollama, LSTM forecasts, and qualitative analysis tools.
