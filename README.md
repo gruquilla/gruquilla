@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Master in Management student at Audencia (Grande Ecole), I am particularly interested in corporate finance, market finance, and green finance. I am also attentive to the role of AI, management, and economic and social transitions in our organisations.
-In 2025, I joined a Franco-British double-degree with Aston Business School (Birmingham, UK), which will allow me to obtain an MSc in Financial Technology (Fintech). I am also working towards my CFA certification.
+Double Master's student (Master in Management Grande Ecole at Audencia (France) + MSc FinTech at Aston University (UK)), I specialise in the intersection between capital markets and FinTech and explore how AI, ML and other innovations reshape the industry (asset management, hedge funds' operations, trading, risk analysis,…). On the side of my academic studies, I am preparing the CFA program and take part to financial events and conferences in Paris and London.
 
 In here, I mainly work with Python, and try to explore the full potential of AI and machine learning integrations using for instance Ollama, LSTM forecasts, and qualitative analysis tools.
